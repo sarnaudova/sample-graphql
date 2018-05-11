@@ -1,0 +1,480 @@
+{
+  "address": {
+    "street": "280 Mauris Street",
+    "city": "San Cristóbal de la Laguna",
+    "zipcode": "440511",
+    "region": "Canarias",
+    "country": "Spain",
+    "coord": {	
+      "latitude": "40.463667",
+      "longitude": "-3.74922"
+    }
+  },
+  "district": "Bronx",
+  "cuisine": "Bakery",
+  "name": "Morris Park Bake Shop"
+}
+{
+  "address": {
+    "street": "8353 Morbi St.",
+    "city": "Gloucester",
+    "zipcode": "70903",
+    "region": "ON",
+    "country": "Grenada",
+    "coord": {
+      "latitude": "12.262776",
+      "longitude": "-61.604171"
+    }
+  },
+  "district": "Brooklyn",
+  "cuisine": "Hamburgers",
+  "name": "Wendy'S"
+}
+{
+  "address": {
+    "street": "7156 Fermentum Avenue",
+    "city": "Abbotsford",
+    "zipcode": "440538",
+    "region": "BC",
+    "country": "Marshall Islands",
+    "coord": {
+      "latitude": "7.131474",
+      "longitude": "171.184478"
+    }
+  },
+  "district": "Manhattan",
+  "cuisine": "Irish",
+  "name": "Dj Reynolds Pub And Restaurant"
+}
+{
+  "address": {
+    "street": "6946 Sit Street",
+    "city": "Upplands Väsby",
+    "zipcode": "62885",
+    "region": "Stockholms län",
+    "country": "Chad",
+    "coord": {
+      "latitude": "15.454166",
+      "longitude": "18.732207"
+    }
+  },
+  "district": "Brooklyn",
+  "cuisine": "American",
+  "name": "Riviera Caterer"
+}
+{
+  "address": {
+    "street": "P.O. Box 625, 5286 Est, St.",
+    "city": "Orangeville",
+    "zipcode": "48910",
+    "region": "Ontario",
+    "country": "Poland",
+    "coord": {
+      "latitude": "51.919438",
+      "longitude": "19.145136"
+    }
+  },
+  "district": "Queens",
+  "cuisine": "Jewish/Kosher",
+  "name": "Tov Kosher Kitchen"
+}
+{
+  "address": {
+    "street": "3771 Malesuada Street",
+    "city": "Ladispoli",
+    "zipcode": "9415",
+    "region": "Lazio",
+    "country": "Chile",
+    "coord": {
+      "latitude": "-35.675147",
+      "longitude": "-71.542969"
+    }
+  },
+  "district": "Queens",
+  "cuisine": "American",
+  "name": "Brunos On The Boulevard"
+}
+{
+  "address": {
+    "street": "5051 Praesent Street",
+    "city": "Mérignac",
+    "zipcode": "58491",
+    "region": "AQ",
+    "country": "New Zealand",
+    "coord": {
+      "latitude": "-40.900557",
+      "longitude": "174.885971"
+    }
+  },
+  "district": "Staten Island",
+  "cuisine": "Jewish/Kosher",
+  "name": "Kosher Island"
+}
+{
+  "address": {
+    "street": "Ap #812-3272 Orci Road",
+    "city": "Timaru",
+    "zipcode": "3482987",
+    "region": "South Island",
+    "country": "Central African Republic",
+    "coord": {
+      "latitude": "6.611111",
+      "longitude": "20.939444"
+    }
+  },
+  "district": "Brooklyn",
+  "cuisine": "Delicatessen",
+  "name": "Wilken'S Fine Food"
+}
+{
+  "address": {
+    "street": "159-2961 A, Av.",
+    "city": "Price",
+    "zipcode": "34823",
+    "region": "Quebec",
+    "country": "Angola",
+    "coord": {
+      "latitude": "-11.202692",
+      "longitude": "17.873887"
+    }
+  },
+  "district": "Brooklyn",
+  "cuisine": "American",
+  "name": "Regina Caterers"
+}
+{
+  "address": {
+    "street": "Ap #553-2973 Mi Rd.",
+    "city": "Lexington",
+    "zipcode": "88-168",
+    "region": "Kentucky",
+    "country": "Argentina",
+    "coord": {
+      "latitude": "-38.416097",
+      "longitude": "-63.616672"
+    }
+  },
+  "district": "Brooklyn",
+  "cuisine": "Ice Cream, Gelato, Yogurt, Ices",
+  "name": "Taste The Tropics Ice Cream"
+}
+{
+  "address": {
+    "street": "Ap #494-4367 Maecenas Av.",
+    "city": "Cairns",
+    "zipcode": "P4X 6P0",
+    "region": "QLD",
+    "country": "Poland",
+    "coord": {
+      "latitude": "51.919438",
+      "longitude": "19.145136"
+    }
+  },
+  "district": "Bronx",
+  "cuisine": "American",
+  "name": "Wild Asia"
+}
+{
+  "address": {
+    "street": "452-5651 Orci, Street",
+    "city": "Cork",
+    "zipcode": "96-169",
+    "region": "M",
+    "country": "Ukraine",
+    "coord": {
+      "latitude": "-69.44761",
+      "longitude": "122.32142"
+    }
+  },
+  "district": "Brooklyn",
+  "cuisine": "American",
+  "name": "C & C Catering Service"
+}
+{
+  "address": {
+    "street": "6416 Justo. St.",
+    "city": "Auckland",
+    "zipcode": "75453",
+    "region": "NI",
+    "country": "San Marino",
+    "coord": {
+      "latitude": "25.68704",
+      "longitude": "59.27824"
+    }
+  },
+  "district": "Brooklyn",
+  "cuisine": "Chinese",
+  "name": "May May Kitchen"
+}
+{
+  "address": {
+    "street": "P.O. Box 715, 1985 Arcu St.",
+    "city": "Newport News",
+    "zipcode": "V3T 2S8",
+    "region": "Virginia",
+    "country": "Guinea",
+    "coord": {
+      "latitude": "49.00786",
+      "longitude": "35.52658"
+    }
+  },
+  "district": "Manhattan",
+  "cuisine": "American",
+  "name": "1 East 66Th Street Kitchen"
+}
+{
+  "address": {
+    "street": "7978 Vestibulum St.",
+    "city": "Vienna",
+    "zipcode": "OP2 9AS",
+    "region": "Vienna",
+    "country": "Tuvalu",
+    "coord": {
+      "latitude": "-27.52389",
+      "longitude": "-159.51917"
+    }
+  },
+  "district": "Brooklyn",
+  "cuisine": "Jewish/Kosher",
+  "name": "Seuda Foods"
+}
+{
+  "address": {
+    "street": "2587 Mauris Street",
+    "city": "Villa Cortese",
+    "zipcode": "85095",
+    "region": "Lombardia",
+    "country": "Cyprus",
+    "coord": {
+      "latitude": "54.16088",
+      "longitude": "114.05278"
+    }
+  },
+  "district": "Brooklyn",
+  "cuisine": "Ice Cream, Gelato, Yogurt, Ices",
+  "name": "Carvel Ice Cream"
+}
+{
+  "address": {
+    "street": "420-6881 Vulputate Rd.",
+    "city": "Norfolk",
+    "zipcode": "341832",
+    "region": "VA",
+    "country": "French Southern Territories",
+    "coord": {
+      "latitude": "-37.46208",
+      "longitude": "106.61095"
+    }
+  },
+  "district": "Queens",
+  "cuisine": "Ice Cream, Gelato, Yogurt, Ices",
+  "name": "Carvel Ice Cream"
+}
+{
+  "address": {
+    "street": "Ap #772-9262 Laoreet, Ave",
+    "city": "Burgos",
+    "zipcode": "8387",
+    "region": "Castilla y León",
+    "country": "Suriname",
+    "coord": {
+      "latitude": "40.34719",
+      "longitude": "-11.00727"
+    }
+  },
+  "district": "Brooklyn",
+  "cuisine": "Delicatessen",
+  "name": "Nordic Delicacies"
+}
+{
+  "address": {
+    "street": "Ap #493-540 Sagittis Ave",
+    "city": "Rockingham",
+    "zipcode": "96087",
+    "region": "WA",
+    "country": "Czech Republic",
+    "coord": {
+      "latitude": "-18.3067",
+      "longitude": "-116.23669"
+    }
+  },
+  "district": "Manhattan",
+  "cuisine": "American",
+  "name": "Glorious Food"
+}
+{
+  "address": {
+    "street": "6078 In St.",
+    "city": "Veere",
+    "zipcode": "00791",
+    "region": "Zeeland",
+    "country": "Belize",
+    "coord": {
+      "latitude": "47.93475",
+      "longitude": "130.97589"
+    }
+  },
+  "district": "Brooklyn",
+  "cuisine": "American",
+  "name": "The Movable Feast"
+}
+{
+  "address": {
+    "street": "Ap #518-8883 In Rd.",
+    "city": "Villenave-d'Ornon",
+    "zipcode": "64-792",
+    "region": "Aquitaine",
+    "country": "Saint Pierre and Miquelon",
+    "coord": {
+      "latitude": "-58.73882",
+      "longitude": "-139.76744"
+    }
+  },
+  "district": "Queens",
+  "cuisine": "Delicatessen",
+  "name": "Sal'S Deli"
+}
+{
+  "address": {
+    "street": "844-2783 Ipsum. Road",
+    "city": "Hilversum",
+    "zipcode": "U3L 6GP",
+    "region": "N.",
+    "country": "Reunion",
+    "coord": {
+      "latitude": "63.56065",
+      "longitude": "-18.85284"
+    }
+  },
+  "district": "Manhattan",
+  "cuisine": "Delicatessen",
+  "name": "Bully'S Deli"
+}
+{
+  "address": {
+    "street": "P.O. Box 299, 1080 Sagittis Rd.",
+    "city": "Essex",
+    "zipcode": "7413",
+    "region": "Ontario",
+    "country": "South Georgia and The South Sandwich Islands",
+    "coord": {
+      "latitude": "36.61423",
+      "longitude": "-46.56736"
+    }
+  },
+  "district": "Queens",
+  "cuisine": "Delicatessen",
+  "name": "Steve Chu'S Deli & Grocery"
+}
+{
+  "address": {
+    "street": "593-3172 Dui, Street",
+    "city": "Schiltigheim",
+    "zipcode": "1651 JS",
+    "region": "Alsace",
+    "country": "Grenada",
+    "coord": {
+      "latitude": "16.87741",
+      "longitude": "-123.22022"
+    }
+  },
+  "district": "Manhattan",
+  "cuisine": "Chicken",
+  "name": "Harriet'S Kitchen"
+}
+{
+  "address": {
+    "street": "4907 Et, Road",
+    "city": "Płock",
+    "zipcode": "50906",
+    "region": "Mazowieckie",
+    "country": "Palestine, State of",
+    "coord": {
+      "latitude": "-56.03839",
+      "longitude": "118.34139"
+    }
+  },
+  "district": "Manhattan",
+  "cuisine": "American",
+  "name": "P & S Deli Grocery"
+}
+{
+  "address": {
+    "street": "P.O. Box 647, 3092 Tincidunt Rd.",
+    "city": "Berceto",
+    "zipcode": "79602",
+    "region": "ERM",
+    "country": "Bonaire, Sint Eustatius and Saba",
+    "coord": {
+      "latitude": "-66.63523",
+      "longitude": "-152.41063"
+    }
+  },
+  "district": "Manhattan",
+  "cuisine": "American",
+  "name": "Angelika Film Center"
+}
+{
+  "address": {
+    "street": "3228 Sollicitudin St.",
+    "city": "Pagazzano",
+    "zipcode": "9243",
+    "region": "LOM",
+    "country": "Uzbekistan",
+    "coord": {
+      "latitude": "37.84169",
+      "longitude": "-6.91365"
+    }
+  },
+  "district": "Brooklyn",
+  "cuisine": "Hamburgers",
+  "name": "White Castle"
+}
+{
+  "address": {
+    "street": "Ap #145-6235 Elit Rd.",
+    "city": "Gladstone",
+    "zipcode": "58-327",
+    "region": "QLD",
+    "country": "Tuvalu",
+    "coord": {
+      "latitude": "-65.48803",
+      "longitude": "40.4536"
+    }
+  },
+  "district": "Queens",
+  "cuisine": "Chinese",
+  "name": "Ho Mei Restaurant"
+}
+{
+  "address": {
+    "street": "Ap #289-9928 Est St.",
+    "city": "Nacimiento",
+    "zipcode": "1024 VK",
+    "region": "Biobío",
+    "country": "Niger",
+    "coord": {
+      "latitude": "-85.24646",
+      "longitude": "172.51853"
+    }
+  },
+  "district": "Manhattan",
+  "cuisine": "Turkish",
+  "name": "The Country Cafe"
+}
+{
+  "address": {
+    "street": "P.O. Box 858, 7863 Fringilla Rd.",
+    "city": "North Vancouver",
+    "zipcode": "862866",
+    "region": "British Columbia",
+    "country": "Somalia",
+    "coord": {
+      "latitude": "-50.94489",
+      "longitude": "19.72992"
+    }
+  },
+  "district": "Brooklyn",
+  "cuisine": "Caribbean",
+  "name": "Shashemene Int'L Restaura"
+}

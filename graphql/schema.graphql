@@ -1,0 +1,26 @@
+type Address {
+  street: String!
+  city: String!
+  zipcode: String!
+  region: String
+  country: String!
+}
+
+type Restaurant {
+  _id: ID
+  name: String!
+  district: String!
+  cuisine: String!
+  address: Address
+}
+
+type Query {
+  restaurant (
+    restaurant_id: String!
+  ): Restaurant
+  
+  restaurants (
+    from: Int
+    pageSize: Int
+  ): [Restaurant]
+}
